@@ -1,2 +1,3 @@
 # Sample
-Sample Repository
+Sample Repository for git command demonstration
+
